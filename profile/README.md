@@ -1,6 +1,9 @@
 ## MIKAIA&reg; image analysis multi-tool for <br> Digital Pathology & Spatial Biology researchers ...
 ...in academia, CROs, biobanks, pharma & biotech<br>
 <br>
+![Alt text](../mikaia.jpg?raw=true "Title")
+<br>
+
 MIKAIA&reg; itself is not open source, but can be downloaded for free from www.mikaia.ai.<br>
 When it does not detect a license file at startup, it will start as MIKAIA lite.<br>
 If it does, it will start as MIKAIA studio.<br>
